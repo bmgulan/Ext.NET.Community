@@ -389,7 +389,7 @@ namespace Ext.Net
             }
 
 #if ISPRO
-            this.CheckLicense();
+            //this.CheckLicense();
 #endif
 
             this.SetIsLast();
